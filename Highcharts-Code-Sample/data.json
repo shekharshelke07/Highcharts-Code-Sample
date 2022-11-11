@@ -1,0 +1,1604 @@
+{
+    "data": {
+        "analytics": {
+            "tagsMetrics": {
+                "metrics": [
+                    {
+                        "total": {
+                            "value": 12621,
+                            "percentage": 76.43,
+                            "plotPercentage": 100
+                        },
+                        "positive": {
+                            "value": 6661,
+                            "percentage": 40.34,
+                            "plotPercentage": 52.78
+                        },
+                        "neutral": {
+                            "value": 75,
+                            "percentage": 0.45,
+                            "plotPercentage": 0.59
+                        },
+                        "negative": {
+                            "value": 5885,
+                            "percentage": 35.64,
+                            "plotPercentage": 46.63
+                        },
+                        "entity": {
+                            "name": "Staff/staff/staff/mystaff/goodstaff",
+                            "id": "18826",
+                            "label": {
+                                "en_US": "Staff/staff/staff/mystaff/goodstaff"
+                            },
+                            "ruleset": null
+                        }
+                    },
+                    {
+                        "total": {
+                            "value": 7483,
+                            "percentage": 45.31,
+                            "plotPercentage": 59.29
+                        },
+                        "positive": {
+                            "value": 4263,
+                            "percentage": 25.81,
+                            "plotPercentage": 33.78
+                        },
+                        "neutral": {
+                            "value": 45,
+                            "percentage": 0.27,
+                            "plotPercentage": 0.36
+                        },
+                        "negative": {
+                            "value": 3175,
+                            "percentage": 19.23,
+                            "plotPercentage": 25.16
+                        },
+                        "entity": {
+                            "name": "Helpful / Useful",
+                            "id": "20142",
+                            "label": {
+                                "en_US": "Helpful / Useful"
+                            },
+                            "ruleset": null
+                        }
+                    },
+                    {
+                        "total": {
+                            "value": 4571,
+                            "percentage": 27.68,
+                            "plotPercentage": 36.22
+                        },
+                        "positive": {
+                            "value": 2582,
+                            "percentage": 15.64,
+                            "plotPercentage": 20.46
+                        },
+                        "neutral": {
+                            "value": 17,
+                            "percentage": 0.1,
+                            "plotPercentage": 0.13
+                        },
+                        "negative": {
+                            "value": 1972,
+                            "percentage": 11.94,
+                            "plotPercentage": 15.62
+                        },
+                        "entity": {
+                            "name": "General Service",
+                            "id": "19481",
+                            "label": {
+                                "en_US": "General Service"
+                            },
+                            "ruleset": null
+                        }
+                    },
+                    {
+                        "total": {
+                            "value": 3779,
+                            "percentage": 22.88,
+                            "plotPercentage": 29.94
+                        },
+                        "positive": {
+                            "value": 2426,
+                            "percentage": 14.69,
+                            "plotPercentage": 19.22
+                        },
+                        "neutral": {
+                            "value": 12,
+                            "percentage": 0.07,
+                            "plotPercentage": 0.1
+                        },
+                        "negative": {
+                            "value": 1341,
+                            "percentage": 8.12,
+                            "plotPercentage": 10.63
+                        },
+                        "entity": {
+                            "name": "Mentions Name",
+                            "id": "18827",
+                            "label": {
+                                "en_US": "Mentions Name"
+                            },
+                            "ruleset": null
+                        }
+                    },
+                    {
+                        "total": {
+                            "value": 509,
+                            "percentage": 3.08,
+                            "plotPercentage": 4.03
+                        },
+                        "positive": {
+                            "value": 230,
+                            "percentage": 1.39,
+                            "plotPercentage": 1.82
+                        },
+                        "neutral": {
+                            "value": 0,
+                            "percentage": 0,
+                            "plotPercentage": 0
+                        },
+                        "negative": {
+                            "value": 279,
+                            "percentage": 1.69,
+                            "plotPercentage": 2.21
+                        },
+                        "entity": {
+                            "name": "Communication",
+                            "id": "18831",
+                            "label": {
+                                "en_US": "Communication"
+                            },
+                            "ruleset": null
+                        }
+                    },
+                    {
+                        "total": {
+                            "value": 457,
+                            "percentage": 2.77,
+                            "plotPercentage": 3.62
+                        },
+                        "positive": {
+                            "value": 230,
+                            "percentage": 1.39,
+                            "plotPercentage": 1.82
+                        },
+                        "neutral": {
+                            "value": 1,
+                            "percentage": 0.01,
+                            "plotPercentage": 0.01
+                        },
+                        "negative": {
+                            "value": 226,
+                            "percentage": 1.37,
+                            "plotPercentage": 1.79
+                        },
+                        "entity": {
+                            "name": "Delivery",
+                            "id": "20606",
+                            "label": {
+                                "en_US": "Delivery"
+                            },
+                            "ruleset": null
+                        }
+                    },
+                    {
+                        "total": {
+                            "value": 223,
+                            "percentage": 1.35,
+                            "plotPercentage": 1.77
+                        },
+                        "positive": {
+                            "value": 122,
+                            "percentage": 0.74,
+                            "plotPercentage": 0.97
+                        },
+                        "neutral": {
+                            "value": 1,
+                            "percentage": 0.01,
+                            "plotPercentage": 0.01
+                        },
+                        "negative": {
+                            "value": 100,
+                            "percentage": 0.61,
+                            "plotPercentage": 0.79
+                        },
+                        "entity": {
+                            "name": "ToGo",
+                            "id": "2913827",
+                            "label": {
+                                "en_US": "ToGo"
+                            },
+                            "ruleset": {
+                                "type": "SELF_SERVE"
+                            }
+                        }
+                    },
+                    {
+                        "total": {
+                            "value": 8,
+                            "percentage": 0.05,
+                            "plotPercentage": 0.06
+                        },
+                        "positive": {
+                            "value": 6,
+                            "percentage": 0.04,
+                            "plotPercentage": 0.05
+                        },
+                        "neutral": {
+                            "value": 0,
+                            "percentage": 0,
+                            "plotPercentage": 0
+                        },
+                        "negative": {
+                            "value": 2,
+                            "percentage": 0.01,
+                            "plotPercentage": 0.02
+                        },
+                        "entity": {
+                            "name": "Moment",
+                            "id": "2913830",
+                            "label": {
+                                "en_US": "Moment"
+                            },
+                            "ruleset": {
+                                "type": "SELF_SERVE"
+                            }
+                        }
+                    },
+                    {
+                        "total": {
+                            "value": 4,
+                            "percentage": 0.02,
+                            "plotPercentage": 0.03
+                        },
+                        "positive": {
+                            "value": 2,
+                            "percentage": 0.01,
+                            "plotPercentage": 0.02
+                        },
+                        "neutral": {
+                            "value": 0,
+                            "percentage": 0,
+                            "plotPercentage": 0
+                        },
+                        "negative": {
+                            "value": 2,
+                            "percentage": 0.01,
+                            "plotPercentage": 0.02
+                        },
+                        "entity": {
+                            "name": "Coupon / Voucher",
+                            "id": "19656",
+                            "label": {
+                                "en_US": "Coupon / Voucher"
+                            },
+                            "ruleset": null
+                        }
+                    },
+                    {
+                        "total": {
+                            "value": 3,
+                            "percentage": 0.02,
+                            "plotPercentage": 0.02
+                        },
+                        "positive": {
+                            "value": 2,
+                            "percentage": 0.01,
+                            "plotPercentage": 0.02
+                        },
+                        "neutral": {
+                            "value": 0,
+                            "percentage": 0,
+                            "plotPercentage": 0
+                        },
+                        "negative": {
+                            "value": 1,
+                            "percentage": 0.01,
+                            "plotPercentage": 0.01
+                        },
+                        "entity": {
+                            "name": "Helpfulness",
+                            "id": "20719",
+                            "label": {
+                                "en_US": "Helpfulness"
+                            },
+                            "ruleset": null
+                        }
+                    },
+                    {
+                        "total": {
+                            "value": 3,
+                            "percentage": 0.02,
+                            "plotPercentage": 0.02
+                        },
+                        "positive": {
+                            "value": 3,
+                            "percentage": 0.02,
+                            "plotPercentage": 0.02
+                        },
+                        "neutral": {
+                            "value": 0,
+                            "percentage": 0,
+                            "plotPercentage": 0
+                        },
+                        "negative": {
+                            "value": 0,
+                            "percentage": 0,
+                            "plotPercentage": 0
+                        },
+                        "entity": {
+                            "name": "sizes",
+                            "id": "2914425",
+                            "label": {
+                                "en_US": "sizes"
+                            },
+                            "ruleset": null
+                        }
+                    },
+                    {
+                        "total": {
+                            "value": 2,
+                            "percentage": 0.01,
+                            "plotPercentage": 0.02
+                        },
+                        "positive": {
+                            "value": 1,
+                            "percentage": 0.01,
+                            "plotPercentage": 0.01
+                        },
+                        "neutral": {
+                            "value": 0,
+                            "percentage": 0,
+                            "plotPercentage": 0
+                        },
+                        "negative": {
+                            "value": 1,
+                            "percentage": 0.01,
+                            "plotPercentage": 0.01
+                        },
+                        "entity": {
+                            "name": "Mentions Name",
+                            "id": "1140",
+                            "label": {
+                                "en_US": "Mentions Name"
+                            },
+                            "ruleset": null
+                        }
+                    },
+                    {
+                        "total": {
+                            "value": 2,
+                            "percentage": 0.01,
+                            "plotPercentage": 0.02
+                        },
+                        "positive": {
+                            "value": 0,
+                            "percentage": 0,
+                            "plotPercentage": 0
+                        },
+                        "neutral": {
+                            "value": 0,
+                            "percentage": 0,
+                            "plotPercentage": 0
+                        },
+                        "negative": {
+                            "value": 2,
+                            "percentage": 0.01,
+                            "plotPercentage": 0.02
+                        },
+                        "entity": {
+                            "name": "Building Exterior / Parking Lot",
+                            "id": "3072",
+                            "label": {
+                                "en_US": "Building Exterior / Parking Lot"
+                            },
+                            "ruleset": null
+                        }
+                    },
+                    {
+                        "total": {
+                            "value": 2,
+                            "percentage": 0.01,
+                            "plotPercentage": 0.02
+                        },
+                        "positive": {
+                            "value": 2,
+                            "percentage": 0.01,
+                            "plotPercentage": 0.02
+                        },
+                        "neutral": {
+                            "value": 0,
+                            "percentage": 0,
+                            "plotPercentage": 0
+                        },
+                        "negative": {
+                            "value": 0,
+                            "percentage": 0,
+                            "plotPercentage": 0
+                        },
+                        "entity": {
+                            "name": "Friendliness",
+                            "id": "3567",
+                            "label": {
+                                "en_US": "Friendliness"
+                            },
+                            "ruleset": null
+                        }
+                    },
+                    {
+                        "total": {
+                            "value": 2,
+                            "percentage": 0.01,
+                            "plotPercentage": 0.02
+                        },
+                        "positive": {
+                            "value": 1,
+                            "percentage": 0.01,
+                            "plotPercentage": 0.01
+                        },
+                        "neutral": {
+                            "value": 0,
+                            "percentage": 0,
+                            "plotPercentage": 0
+                        },
+                        "negative": {
+                            "value": 1,
+                            "percentage": 0.01,
+                            "plotPercentage": 0.01
+                        },
+                        "entity": {
+                            "name": "Product Preference",
+                            "id": "20803",
+                            "label": {
+                                "en_US": "Product Preference"
+                            },
+                            "ruleset": null
+                        }
+                    },
+                    {
+                        "total": {
+                            "value": 2,
+                            "percentage": 0.01,
+                            "plotPercentage": 0.02
+                        },
+                        "positive": {
+                            "value": 0,
+                            "percentage": 0,
+                            "plotPercentage": 0
+                        },
+                        "neutral": {
+                            "value": 2,
+                            "percentage": 0.01,
+                            "plotPercentage": 0.02
+                        },
+                        "negative": {
+                            "value": 0,
+                            "percentage": 0,
+                            "plotPercentage": 0
+                        },
+                        "entity": {
+                            "name": "Mentions Name",
+                            "id": "21470",
+                            "label": {
+                                "en_US": "Mentions Name"
+                            },
+                            "ruleset": null
+                        }
+                    },
+                    {
+                        "total": {
+                            "value": 2,
+                            "percentage": 0.01,
+                            "plotPercentage": 0.02
+                        },
+                        "positive": {
+                            "value": 1,
+                            "percentage": 0.01,
+                            "plotPercentage": 0.01
+                        },
+                        "neutral": {
+                            "value": 1,
+                            "percentage": 0.01,
+                            "plotPercentage": 0.01
+                        },
+                        "negative": {
+                            "value": 0,
+                            "percentage": 0,
+                            "plotPercentage": 0
+                        },
+                        "entity": {
+                            "name": "Availability & Choice",
+                            "id": "2914345",
+                            "label": {
+                                "en_US": "Availability & Choice"
+                            },
+                            "ruleset": null
+                        }
+                    },
+                    {
+                        "total": {
+                            "value": 1,
+                            "percentage": 0.01,
+                            "plotPercentage": 0.01
+                        },
+                        "positive": {
+                            "value": 1,
+                            "percentage": 0.01,
+                            "plotPercentage": 0.01
+                        },
+                        "neutral": {
+                            "value": 0,
+                            "percentage": 0,
+                            "plotPercentage": 0
+                        },
+                        "negative": {
+                            "value": 0,
+                            "percentage": 0,
+                            "plotPercentage": 0
+                        },
+                        "entity": {
+                            "name": "Speed",
+                            "id": "31",
+                            "label": {
+                                "en_US": "Speed"
+                            },
+                            "ruleset": null
+                        }
+                    },
+                    {
+                        "total": {
+                            "value": 1,
+                            "percentage": 0.01,
+                            "plotPercentage": 0.01
+                        },
+                        "positive": {
+                            "value": 0,
+                            "percentage": 0,
+                            "plotPercentage": 0
+                        },
+                        "neutral": {
+                            "value": 0,
+                            "percentage": 0,
+                            "plotPercentage": 0
+                        },
+                        "negative": {
+                            "value": 1,
+                            "percentage": 0.01,
+                            "plotPercentage": 0.01
+                        },
+                        "entity": {
+                            "name": "Knowledge",
+                            "id": "373",
+                            "label": {
+                                "en_US": "Knowledge"
+                            },
+                            "ruleset": null
+                        }
+                    },
+                    {
+                        "total": {
+                            "value": 1,
+                            "percentage": 0.01,
+                            "plotPercentage": 0.01
+                        },
+                        "positive": {
+                            "value": 0,
+                            "percentage": 0,
+                            "plotPercentage": 0
+                        },
+                        "neutral": {
+                            "value": 1,
+                            "percentage": 0.01,
+                            "plotPercentage": 0.01
+                        },
+                        "negative": {
+                            "value": 0,
+                            "percentage": 0,
+                            "plotPercentage": 0
+                        },
+                        "entity": {
+                            "name": "Pricing",
+                            "id": "474",
+                            "label": {
+                                "en_US": "Pricing"
+                            },
+                            "ruleset": null
+                        }
+                    },
+                    {
+                        "total": {
+                            "value": 1,
+                            "percentage": 0.01,
+                            "plotPercentage": 0.01
+                        },
+                        "positive": {
+                            "value": 0,
+                            "percentage": 0,
+                            "plotPercentage": 0
+                        },
+                        "neutral": {
+                            "value": 0,
+                            "percentage": 0,
+                            "plotPercentage": 0
+                        },
+                        "negative": {
+                            "value": 1,
+                            "percentage": 0.01,
+                            "plotPercentage": 0.01
+                        },
+                        "entity": {
+                            "name": "Product Availability",
+                            "id": "475",
+                            "label": {
+                                "en_US": "Product Availability"
+                            },
+                            "ruleset": null
+                        }
+                    },
+                    {
+                        "total": {
+                            "value": 1,
+                            "percentage": 0.01,
+                            "plotPercentage": 0.01
+                        },
+                        "positive": {
+                            "value": 1,
+                            "percentage": 0.01,
+                            "plotPercentage": 0.01
+                        },
+                        "neutral": {
+                            "value": 0,
+                            "percentage": 0,
+                            "plotPercentage": 0
+                        },
+                        "negative": {
+                            "value": 0,
+                            "percentage": 0,
+                            "plotPercentage": 0
+                        },
+                        "entity": {
+                            "name": "Quality",
+                            "id": "1027",
+                            "label": {
+                                "en_US": "Quality"
+                            },
+                            "ruleset": null
+                        }
+                    },
+                    {
+                        "total": {
+                            "value": 1,
+                            "percentage": 0.01,
+                            "plotPercentage": 0.01
+                        },
+                        "positive": {
+                            "value": 1,
+                            "percentage": 0.01,
+                            "plotPercentage": 0.01
+                        },
+                        "neutral": {
+                            "value": 0,
+                            "percentage": 0,
+                            "plotPercentage": 0
+                        },
+                        "negative": {
+                            "value": 0,
+                            "percentage": 0,
+                            "plotPercentage": 0
+                        },
+                        "entity": {
+                            "name": "Accuracy",
+                            "id": "1033",
+                            "label": {
+                                "en_US": "Accuracy"
+                            },
+                            "ruleset": null
+                        }
+                    },
+                    {
+                        "total": {
+                            "value": 1,
+                            "percentage": 0.01,
+                            "plotPercentage": 0.01
+                        },
+                        "positive": {
+                            "value": 0,
+                            "percentage": 0,
+                            "plotPercentage": 0
+                        },
+                        "neutral": {
+                            "value": 0,
+                            "percentage": 0,
+                            "plotPercentage": 0
+                        },
+                        "negative": {
+                            "value": 1,
+                            "percentage": 0.01,
+                            "plotPercentage": 0.01
+                        },
+                        "entity": {
+                            "name": "Loyalty Program",
+                            "id": "1105",
+                            "label": {
+                                "en_US": "Loyalty Program"
+                            },
+                            "ruleset": null
+                        }
+                    },
+                    {
+                        "total": {
+                            "value": 1,
+                            "percentage": 0.01,
+                            "plotPercentage": 0.01
+                        },
+                        "positive": {
+                            "value": 0,
+                            "percentage": 0,
+                            "plotPercentage": 0
+                        },
+                        "neutral": {
+                            "value": 0,
+                            "percentage": 0,
+                            "plotPercentage": 0
+                        },
+                        "negative": {
+                            "value": 1,
+                            "percentage": 0.01,
+                            "plotPercentage": 0.01
+                        },
+                        "entity": {
+                            "name": "Business Location",
+                            "id": "1113",
+                            "label": {
+                                "en_US": "Business Location"
+                            },
+                            "ruleset": null
+                        }
+                    },
+                    {
+                        "total": {
+                            "value": 1,
+                            "percentage": 0.01,
+                            "plotPercentage": 0.01
+                        },
+                        "positive": {
+                            "value": 0,
+                            "percentage": 0,
+                            "plotPercentage": 0
+                        },
+                        "neutral": {
+                            "value": 0,
+                            "percentage": 0,
+                            "plotPercentage": 0
+                        },
+                        "negative": {
+                            "value": 1,
+                            "percentage": 0.01,
+                            "plotPercentage": 0.01
+                        },
+                        "entity": {
+                            "name": "Staff",
+                            "id": "1139",
+                            "label": {
+                                "en_US": "Staff"
+                            },
+                            "ruleset": null
+                        }
+                    },
+                    {
+                        "total": {
+                            "value": 1,
+                            "percentage": 0.01,
+                            "plotPercentage": 0.01
+                        },
+                        "positive": {
+                            "value": 1,
+                            "percentage": 0.01,
+                            "plotPercentage": 0.01
+                        },
+                        "neutral": {
+                            "value": 0,
+                            "percentage": 0,
+                            "plotPercentage": 0
+                        },
+                        "negative": {
+                            "value": 0,
+                            "percentage": 0,
+                            "plotPercentage": 0
+                        },
+                        "entity": {
+                            "name": "Frequent Customer",
+                            "id": "1413",
+                            "label": {
+                                "en_US": "Frequent Customer"
+                            },
+                            "ruleset": null
+                        }
+                    },
+                    {
+                        "total": {
+                            "value": 1,
+                            "percentage": 0.01,
+                            "plotPercentage": 0.01
+                        },
+                        "positive": {
+                            "value": 1,
+                            "percentage": 0.01,
+                            "plotPercentage": 0.01
+                        },
+                        "neutral": {
+                            "value": 0,
+                            "percentage": 0,
+                            "plotPercentage": 0
+                        },
+                        "negative": {
+                            "value": 0,
+                            "percentage": 0,
+                            "plotPercentage": 0
+                        },
+                        "entity": {
+                            "name": "General Service",
+                            "id": "1807",
+                            "label": {
+                                "en_US": "General Service"
+                            },
+                            "ruleset": null
+                        }
+                    },
+                    {
+                        "total": {
+                            "value": 1,
+                            "percentage": 0.01,
+                            "plotPercentage": 0.01
+                        },
+                        "positive": {
+                            "value": 1,
+                            "percentage": 0.01,
+                            "plotPercentage": 0.01
+                        },
+                        "neutral": {
+                            "value": 0,
+                            "percentage": 0,
+                            "plotPercentage": 0
+                        },
+                        "negative": {
+                            "value": 0,
+                            "percentage": 0,
+                            "plotPercentage": 0
+                        },
+                        "entity": {
+                            "name": "Cashier",
+                            "id": "2137",
+                            "label": {
+                                "en_US": "Cashier"
+                            },
+                            "ruleset": null
+                        }
+                    },
+                    {
+                        "total": {
+                            "value": 1,
+                            "percentage": 0.01,
+                            "plotPercentage": 0.01
+                        },
+                        "positive": {
+                            "value": 1,
+                            "percentage": 0.01,
+                            "plotPercentage": 0.01
+                        },
+                        "neutral": {
+                            "value": 0,
+                            "percentage": 0,
+                            "plotPercentage": 0
+                        },
+                        "negative": {
+                            "value": 0,
+                            "percentage": 0,
+                            "plotPercentage": 0
+                        },
+                        "entity": {
+                            "name": "Sales Associate",
+                            "id": "2138",
+                            "label": {
+                                "en_US": "Sales Associate"
+                            },
+                            "ruleset": null
+                        }
+                    },
+                    {
+                        "total": {
+                            "value": 1,
+                            "percentage": 0.01,
+                            "plotPercentage": 0.01
+                        },
+                        "positive": {
+                            "value": 1,
+                            "percentage": 0.01,
+                            "plotPercentage": 0.01
+                        },
+                        "neutral": {
+                            "value": 0,
+                            "percentage": 0,
+                            "plotPercentage": 0
+                        },
+                        "negative": {
+                            "value": 0,
+                            "percentage": 0,
+                            "plotPercentage": 0
+                        },
+                        "entity": {
+                            "name": "Wait Time",
+                            "id": "4157",
+                            "label": {
+                                "en_US": "Wait Time"
+                            },
+                            "ruleset": null
+                        }
+                    },
+                    {
+                        "total": {
+                            "value": 1,
+                            "percentage": 0.01,
+                            "plotPercentage": 0.01
+                        },
+                        "positive": {
+                            "value": 0,
+                            "percentage": 0,
+                            "plotPercentage": 0
+                        },
+                        "neutral": {
+                            "value": 0,
+                            "percentage": 0,
+                            "plotPercentage": 0
+                        },
+                        "negative": {
+                            "value": 1,
+                            "percentage": 0.01,
+                            "plotPercentage": 0.01
+                        },
+                        "entity": {
+                            "name": "Quality / Durability",
+                            "id": "4237",
+                            "label": {
+                                "en_US": "Quality / Durability"
+                            },
+                            "ruleset": null
+                        }
+                    },
+                    {
+                        "total": {
+                            "value": 1,
+                            "percentage": 0.01,
+                            "plotPercentage": 0.01
+                        },
+                        "positive": {
+                            "value": 1,
+                            "percentage": 0.01,
+                            "plotPercentage": 0.01
+                        },
+                        "neutral": {
+                            "value": 0,
+                            "percentage": 0,
+                            "plotPercentage": 0
+                        },
+                        "negative": {
+                            "value": 0,
+                            "percentage": 0,
+                            "plotPercentage": 0
+                        },
+                        "entity": {
+                            "name": "Checkout",
+                            "id": "4724",
+                            "label": {
+                                "en_US": "Checkout"
+                            },
+                            "ruleset": null
+                        }
+                    },
+                    {
+                        "total": {
+                            "value": 1,
+                            "percentage": 0.01,
+                            "plotPercentage": 0.01
+                        },
+                        "positive": {
+                            "value": 0,
+                            "percentage": 0,
+                            "plotPercentage": 0
+                        },
+                        "neutral": {
+                            "value": 0,
+                            "percentage": 0,
+                            "plotPercentage": 0
+                        },
+                        "negative": {
+                            "value": 1,
+                            "percentage": 0.01,
+                            "plotPercentage": 0.01
+                        },
+                        "entity": {
+                            "name": "Sound",
+                            "id": "12928",
+                            "label": {
+                                "en_US": "Sound"
+                            },
+                            "ruleset": null
+                        }
+                    },
+                    {
+                        "total": {
+                            "value": 1,
+                            "percentage": 0.01,
+                            "plotPercentage": 0.01
+                        },
+                        "positive": {
+                            "value": 1,
+                            "percentage": 0.01,
+                            "plotPercentage": 0.01
+                        },
+                        "neutral": {
+                            "value": 0,
+                            "percentage": 0,
+                            "plotPercentage": 0
+                        },
+                        "negative": {
+                            "value": 0,
+                            "percentage": 0,
+                            "plotPercentage": 0
+                        },
+                        "entity": {
+                            "name": "Insights",
+                            "id": "13498",
+                            "label": {
+                                "en_US": "Insights"
+                            },
+                            "ruleset": null
+                        }
+                    },
+                    {
+                        "total": {
+                            "value": 1,
+                            "percentage": 0.01,
+                            "plotPercentage": 0.01
+                        },
+                        "positive": {
+                            "value": 1,
+                            "percentage": 0.01,
+                            "plotPercentage": 0.01
+                        },
+                        "neutral": {
+                            "value": 0,
+                            "percentage": 0,
+                            "plotPercentage": 0
+                        },
+                        "negative": {
+                            "value": 0,
+                            "percentage": 0,
+                            "plotPercentage": 0
+                        },
+                        "entity": {
+                            "name": "Time To Pay For Items",
+                            "id": "17991",
+                            "label": {
+                                "en_US": "Time To Pay For Items"
+                            },
+                            "ruleset": null
+                        }
+                    },
+                    {
+                        "total": {
+                            "value": 1,
+                            "percentage": 0.01,
+                            "plotPercentage": 0.01
+                        },
+                        "positive": {
+                            "value": 1,
+                            "percentage": 0.01,
+                            "plotPercentage": 0.01
+                        },
+                        "neutral": {
+                            "value": 0,
+                            "percentage": 0,
+                            "plotPercentage": 0
+                        },
+                        "negative": {
+                            "value": 0,
+                            "percentage": 0,
+                            "plotPercentage": 0
+                        },
+                        "entity": {
+                            "name": "Product Attributes",
+                            "id": "18540",
+                            "label": {
+                                "en_US": "Product Attributes"
+                            },
+                            "ruleset": null
+                        }
+                    },
+                    {
+                        "total": {
+                            "value": 1,
+                            "percentage": 0.01,
+                            "plotPercentage": 0.01
+                        },
+                        "positive": {
+                            "value": 1,
+                            "percentage": 0.01,
+                            "plotPercentage": 0.01
+                        },
+                        "neutral": {
+                            "value": 0,
+                            "percentage": 0,
+                            "plotPercentage": 0
+                        },
+                        "negative": {
+                            "value": 0,
+                            "percentage": 0,
+                            "plotPercentage": 0
+                        },
+                        "entity": {
+                            "name": "Cleanliness",
+                            "id": "18976",
+                            "label": {
+                                "en_US": "Cleanliness"
+                            },
+                            "ruleset": null
+                        }
+                    },
+                    {
+                        "total": {
+                            "value": 1,
+                            "percentage": 0.01,
+                            "plotPercentage": 0.01
+                        },
+                        "positive": {
+                            "value": 0,
+                            "percentage": 0,
+                            "plotPercentage": 0
+                        },
+                        "neutral": {
+                            "value": 0,
+                            "percentage": 0,
+                            "plotPercentage": 0
+                        },
+                        "negative": {
+                            "value": 1,
+                            "percentage": 0.01,
+                            "plotPercentage": 0.01
+                        },
+                        "entity": {
+                            "name": "Illegal",
+                            "id": "19534",
+                            "label": {
+                                "en_US": "Illegal"
+                            },
+                            "ruleset": null
+                        }
+                    },
+                    {
+                        "total": {
+                            "value": 1,
+                            "percentage": 0.01,
+                            "plotPercentage": 0.01
+                        },
+                        "positive": {
+                            "value": 1,
+                            "percentage": 0.01,
+                            "plotPercentage": 0.01
+                        },
+                        "neutral": {
+                            "value": 0,
+                            "percentage": 0,
+                            "plotPercentage": 0
+                        },
+                        "negative": {
+                            "value": 0,
+                            "percentage": 0,
+                            "plotPercentage": 0
+                        },
+                        "entity": {
+                            "name": "Speed",
+                            "id": "19915",
+                            "label": {
+                                "en_US": "Speed"
+                            },
+                            "ruleset": null
+                        }
+                    },
+                    {
+                        "total": {
+                            "value": 1,
+                            "percentage": 0.01,
+                            "plotPercentage": 0.01
+                        },
+                        "positive": {
+                            "value": 0,
+                            "percentage": 0,
+                            "plotPercentage": 0
+                        },
+                        "neutral": {
+                            "value": 1,
+                            "percentage": 0.01,
+                            "plotPercentage": 0.01
+                        },
+                        "negative": {
+                            "value": 0,
+                            "percentage": 0,
+                            "plotPercentage": 0
+                        },
+                        "entity": {
+                            "name": "Mentions Name",
+                            "id": "20098",
+                            "label": {
+                                "en_US": "Mentions Name"
+                            },
+                            "ruleset": null
+                        }
+                    },
+                    {
+                        "total": {
+                            "value": 1,
+                            "percentage": 0.01,
+                            "plotPercentage": 0.01
+                        },
+                        "positive": {
+                            "value": 1,
+                            "percentage": 0.01,
+                            "plotPercentage": 0.01
+                        },
+                        "neutral": {
+                            "value": 0,
+                            "percentage": 0,
+                            "plotPercentage": 0
+                        },
+                        "negative": {
+                            "value": 0,
+                            "percentage": 0,
+                            "plotPercentage": 0
+                        },
+                        "entity": {
+                            "name": "Wait Time",
+                            "id": "20120",
+                            "label": {
+                                "en_US": "Wait Time"
+                            },
+                            "ruleset": null
+                        }
+                    },
+                    {
+                        "total": {
+                            "value": 1,
+                            "percentage": 0.01,
+                            "plotPercentage": 0.01
+                        },
+                        "positive": {
+                            "value": 1,
+                            "percentage": 0.01,
+                            "plotPercentage": 0.01
+                        },
+                        "neutral": {
+                            "value": 0,
+                            "percentage": 0,
+                            "plotPercentage": 0
+                        },
+                        "negative": {
+                            "value": 0,
+                            "percentage": 0,
+                            "plotPercentage": 0
+                        },
+                        "entity": {
+                            "name": "Website",
+                            "id": "20128",
+                            "label": {
+                                "en_US": "Website"
+                            },
+                            "ruleset": null
+                        }
+                    },
+                    {
+                        "total": {
+                            "value": 1,
+                            "percentage": 0.01,
+                            "plotPercentage": 0.01
+                        },
+                        "positive": {
+                            "value": 0,
+                            "percentage": 0,
+                            "plotPercentage": 0
+                        },
+                        "neutral": {
+                            "value": 0,
+                            "percentage": 0,
+                            "plotPercentage": 0
+                        },
+                        "negative": {
+                            "value": 1,
+                            "percentage": 0.01,
+                            "plotPercentage": 0.01
+                        },
+                        "entity": {
+                            "name": "Politeness",
+                            "id": "20729",
+                            "label": {
+                                "en_US": "Politeness"
+                            },
+                            "ruleset": null
+                        }
+                    },
+                    {
+                        "total": {
+                            "value": 1,
+                            "percentage": 0.01,
+                            "plotPercentage": 0.01
+                        },
+                        "positive": {
+                            "value": 0,
+                            "percentage": 0,
+                            "plotPercentage": 0
+                        },
+                        "neutral": {
+                            "value": 0,
+                            "percentage": 0,
+                            "plotPercentage": 0
+                        },
+                        "negative": {
+                            "value": 1,
+                            "percentage": 0.01,
+                            "plotPercentage": 0.01
+                        },
+                        "entity": {
+                            "name": "Carrying",
+                            "id": "20737",
+                            "label": {
+                                "en_US": "Carrying"
+                            },
+                            "ruleset": null
+                        }
+                    },
+                    {
+                        "total": {
+                            "value": 1,
+                            "percentage": 0.01,
+                            "plotPercentage": 0.01
+                        },
+                        "positive": {
+                            "value": 0,
+                            "percentage": 0,
+                            "plotPercentage": 0
+                        },
+                        "neutral": {
+                            "value": 0,
+                            "percentage": 0,
+                            "plotPercentage": 0
+                        },
+                        "negative": {
+                            "value": 1,
+                            "percentage": 0.01,
+                            "plotPercentage": 0.01
+                        },
+                        "entity": {
+                            "name": "General Insight",
+                            "id": "20738",
+                            "label": {
+                                "en_US": "General Insight"
+                            },
+                            "ruleset": null
+                        }
+                    },
+                    {
+                        "total": {
+                            "value": 1,
+                            "percentage": 0.01,
+                            "plotPercentage": 0.01
+                        },
+                        "positive": {
+                            "value": 1,
+                            "percentage": 0.01,
+                            "plotPercentage": 0.01
+                        },
+                        "neutral": {
+                            "value": 0,
+                            "percentage": 0,
+                            "plotPercentage": 0
+                        },
+                        "negative": {
+                            "value": 0,
+                            "percentage": 0,
+                            "plotPercentage": 0
+                        },
+                        "entity": {
+                            "name": "Special Occasions",
+                            "id": "20741",
+                            "label": {
+                                "en_US": "Special Occasions"
+                            },
+                            "ruleset": null
+                        }
+                    },
+                    {
+                        "total": {
+                            "value": 1,
+                            "percentage": 0.01,
+                            "plotPercentage": 0.01
+                        },
+                        "positive": {
+                            "value": 1,
+                            "percentage": 0.01,
+                            "plotPercentage": 0.01
+                        },
+                        "neutral": {
+                            "value": 0,
+                            "percentage": 0,
+                            "plotPercentage": 0
+                        },
+                        "negative": {
+                            "value": 0,
+                            "percentage": 0,
+                            "plotPercentage": 0
+                        },
+                        "entity": {
+                            "name": "Online Order",
+                            "id": "20746",
+                            "label": {
+                                "en_US": "Online Order"
+                            },
+                            "ruleset": null
+                        }
+                    },
+                    {
+                        "total": {
+                            "value": 1,
+                            "percentage": 0.01,
+                            "plotPercentage": 0.01
+                        },
+                        "positive": {
+                            "value": 0,
+                            "percentage": 0,
+                            "plotPercentage": 0
+                        },
+                        "neutral": {
+                            "value": 1,
+                            "percentage": 0.01,
+                            "plotPercentage": 0.01
+                        },
+                        "negative": {
+                            "value": 0,
+                            "percentage": 0,
+                            "plotPercentage": 0
+                        },
+                        "entity": {
+                            "name": "Training",
+                            "id": "21152",
+                            "label": {
+                                "en_US": "Training"
+                            },
+                            "ruleset": null
+                        }
+                    },
+                    {
+                        "total": {
+                            "value": 1,
+                            "percentage": 0.01,
+                            "plotPercentage": 0.01
+                        },
+                        "positive": {
+                            "value": 1,
+                            "percentage": 0.01,
+                            "plotPercentage": 0.01
+                        },
+                        "neutral": {
+                            "value": 0,
+                            "percentage": 0,
+                            "plotPercentage": 0
+                        },
+                        "negative": {
+                            "value": 0,
+                            "percentage": 0,
+                            "plotPercentage": 0
+                        },
+                        "entity": {
+                            "name": "Restrooms",
+                            "id": "21790",
+                            "label": {
+                                "en_US": "Restrooms"
+                            },
+                            "ruleset": null
+                        }
+                    },
+                    {
+                        "total": {
+                            "value": 1,
+                            "percentage": 0.01,
+                            "plotPercentage": 0.01
+                        },
+                        "positive": {
+                            "value": 1,
+                            "percentage": 0.01,
+                            "plotPercentage": 0.01
+                        },
+                        "neutral": {
+                            "value": 0,
+                            "percentage": 0,
+                            "plotPercentage": 0
+                        },
+                        "negative": {
+                            "value": 0,
+                            "percentage": 0,
+                            "plotPercentage": 0
+                        },
+                        "entity": {
+                            "name": "Sizing",
+                            "id": "21807",
+                            "label": {
+                                "en_US": "Sizing"
+                            },
+                            "ruleset": null
+                        }
+                    },
+                    {
+                        "total": {
+                            "value": 1,
+                            "percentage": 0.01,
+                            "plotPercentage": 0.01
+                        },
+                        "positive": {
+                            "value": 0,
+                            "percentage": 0,
+                            "plotPercentage": 0
+                        },
+                        "neutral": {
+                            "value": 1,
+                            "percentage": 0.01,
+                            "plotPercentage": 0.01
+                        },
+                        "negative": {
+                            "value": 0,
+                            "percentage": 0,
+                            "plotPercentage": 0
+                        },
+                        "entity": {
+                            "name": "Late or Missing",
+                            "id": "2914332",
+                            "label": {
+                                "en_US": "Late or Missing"
+                            },
+                            "ruleset": null
+                        }
+                    },
+                    {
+                        "total": {
+                            "value": 1,
+                            "percentage": 0.01,
+                            "plotPercentage": 0.01
+                        },
+                        "positive": {
+                            "value": 1,
+                            "percentage": 0.01,
+                            "plotPercentage": 0.01
+                        },
+                        "neutral": {
+                            "value": 0,
+                            "percentage": 0,
+                            "plotPercentage": 0
+                        },
+                        "negative": {
+                            "value": 0,
+                            "percentage": 0,
+                            "plotPercentage": 0
+                        },
+                        "entity": {
+                            "name": "Hertz Policy",
+                            "id": "5",
+                            "label": {
+                                "en_US": "Hertz Policy"
+                            },
+                            "ruleset": null
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}
